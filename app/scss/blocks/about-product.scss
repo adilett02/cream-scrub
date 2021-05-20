@@ -18,6 +18,10 @@
 }
 .about-text {
     color: #000;
+    span {
+        color: $secondaryColor;
+        font-weight: bold;
+    }
 }
 .arabica-block {
     position: relative;
