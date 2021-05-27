@@ -23,23 +23,10 @@
         font-weight: bold;
     }
 }
-.arabica-block {
-    position: relative;
-    background-image: url(../img/arabica-bg.jpg);
-    background-size: cover;
-    background-position: center;
-    padding: 300px 0;
-    color: #fff;
-    &::before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        bottom: 0;
-        right: 0;
-        background-color: #000;
-        opacity: 0.3;
-    }
+.contraindications {
+    color: #ff1800;
+    padding: 5% 5% 10%;
+    text-align: center;
 }
 
 .recommendation-section {
