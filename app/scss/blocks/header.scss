@@ -205,6 +205,14 @@ nav {
             }
         }
     }
+    .icons__item a {
+        width: 45px;
+        height: 45px;
+        svg {
+            width: 18px;
+            height: 18px;
+        }
+    }
 }
 .mobile-menu.active {
     right: 0;
