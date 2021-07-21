@@ -1,17 +1,20 @@
 .form {
     padding: 100px 0;
-    h2 {
-        text-align: center;
-        color: $primaryColor;
-        font-size: 44px;
-        font-weight: bold;
-    }
+    // h2 {
+    //     text-align: center;
+    //     color: $primaryColor;
+    //     font-size: 44px;
+    //     font-weight: bold;
+    // }
     h5 {
-        color: $primaryColor;
+        color: $secondaryColor;
         font-weight: bold;
     }
     form {
         margin-top: 50px;
+    }
+    .order-btn {
+        background-color: $primaryColor;
     }
 }
 .form-group {
